@@ -2,6 +2,8 @@
 
 Use the following code snippet to prevent directory browsing.
 
+***
+
 ```
 ##############################
 # Protect the .htaccess file #
