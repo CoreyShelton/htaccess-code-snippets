@@ -2,6 +2,8 @@
 
 Only users who are logged in can access the */wp-content/uploads/* images and files.
 
+***
+
 ```
 <IfModule mod_rewrite.c>
 RewriteCond %{REQUEST_FILENAME} -s
