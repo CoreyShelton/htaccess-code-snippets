@@ -1,6 +1,6 @@
 # Block Bad Robots
 
-```Text
+```
 ##################################
 # START Black List The Following #
 # http://pastebin.com/5Hw9KZnW   #
