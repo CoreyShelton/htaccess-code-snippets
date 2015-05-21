@@ -1,5 +1,7 @@
 #Browser Cache
 
+Use this code for browser caching.
+
 ```Text
 ##############################
 # BEGIN Browser Cache        #
