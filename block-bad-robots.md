@@ -1,10 +1,13 @@
 # Block Bad Robots
 
-```Text
+
 ##################################
 # START Black List The Following #
 # http://pastebin.com/5Hw9KZnW   #
 ##################################
+
+<IfModule mod_rewrite.c>
+
 # Begin HackRepair.com Blacklist
 # Abuse Agent Blocking
 RewriteCond %{HTTP_USER_AGENT} ^$ [NC,OR]
@@ -252,10 +255,9 @@ RewriteCond %{REMOTE_HOST} 222.36.12.42 [OR]
 #End Block comment spammers, bad bots and some proxies
 # End HackRepair.com Blacklist
 
+</IfModule>
+
 ##################################
 # END Black List The Following   #
 # http://pastebin.com/5Hw9KZnW   #
 ##################################
-
-</IfModule>
-```
