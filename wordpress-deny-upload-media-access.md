@@ -1,6 +1,6 @@
 # Wordpress Specific
 
-####Only users who are logged in can access the */wp-content/uploads/* images and files**
+Only users who are logged in can access the */wp-content/uploads/* images and files**
 
 ```
 <IfModule mod_rewrite.c>
