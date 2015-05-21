@@ -2,6 +2,8 @@
 
 The following code snippet prevents wp-config.php from loading
 
+***
+
 ```
 #####################################
 # Don't Allow wp-config.php To Load #
