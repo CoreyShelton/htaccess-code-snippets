@@ -2,6 +2,8 @@
 
 The code below demonstrates some general .htaccess settings for a basic .htaccess file
 
+***
+
 ```
 #####################################
 # Don't Allow wp-config.php To Load #
