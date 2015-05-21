@@ -1,6 +1,6 @@
 # Block Bad Robots
 
-
+```Text
 ##################################
 # START Black List The Following #
 # http://pastebin.com/5Hw9KZnW   #
@@ -261,3 +261,4 @@ RewriteCond %{REMOTE_HOST} 222.36.12.42 [OR]
 # END Black List The Following   #
 # http://pastebin.com/5Hw9KZnW   #
 ##################################
+```
