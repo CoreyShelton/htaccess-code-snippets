@@ -2,6 +2,8 @@
 
 The following code snippet protects the .htaccess file itself
 
+***
+
 ```
 ##############################
 # Protect the .htaccess file #
