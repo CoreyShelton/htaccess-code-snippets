@@ -2,6 +2,8 @@
 
 Use this code to block bad robots and known malicious IP addresses.
 
+***
+
 ```
 ##################################
 # START Black List The Following #
